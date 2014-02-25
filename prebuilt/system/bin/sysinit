@@ -1,0 +1,5 @@
+#!/system/bin/sh
+
+export PATH=/sbin:/system/sbin:/system/bin:/system/xbin
+busybox chmod 0755 /system/etc/init.d/*
+/system/bin/logwrapper run-parts /system/etc/init.d 

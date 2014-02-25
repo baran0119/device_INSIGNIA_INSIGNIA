@@ -1,0 +1,3 @@
+add_lunch_combo cm_INSIGNIA-eng
+add_lunch_combo cm_INSIGNIA-userdebug
+add_lunch_combo cm_INSIGNIA-user

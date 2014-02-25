@@ -1,0 +1,6 @@
+For camera:
+system/bin/		akmd8963
+system/bin/		akmd8975
+system/etc/permissions/	android.hardware.camera.xml
+system/lib/		libcameracustom.so 
+system/lib/		libcameraservice.so
